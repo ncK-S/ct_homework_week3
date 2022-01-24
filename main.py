@@ -24,7 +24,7 @@ print ("Modified list is : " + str(string_list))
 # ### Exercise 2 
 # <p>Write an anonymous function that sorts this list by the last name
 
-# `Output: ['Victor aNisimov', 'Gary A.J. Bernstein', 'Joel Carter', 'Andrew P. Garfield', 'David hassELHOFF']`
+
 # author = ["Joel Carter", "Victor aNisimov", "Andrew P. Garfield","David hassELHOFF","Gary A.J. Bernstein"]
 
 def sort_name(nameList):
